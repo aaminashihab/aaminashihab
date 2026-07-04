@@ -5,6 +5,7 @@
 Building AI-powered applications that solve real-world problems using LLMs, multi-agent systems, and modern full-stack technologies.
 
 🟢 **Open to Freelance, Contract, and Full-Time AI Engineering Opportunities**
+
 🌐 **Portfolio:** https://amina-portfolio-pi.vercel.app  
 💼 **LinkedIn:** https://www.linkedin.com/in/amina-shihabuddin/  
 🐙 **GitHub:** https://github.com/aaminashihab
