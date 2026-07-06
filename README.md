@@ -61,16 +61,6 @@ Python • FastAPI • Gemini • MongoDB • Docker
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaminashihab&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaminashihab&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=aaminashihab&theme=github-dark)
-
----
-
 ## 📫 Let's Connect
 
 💼 LinkedIn  
