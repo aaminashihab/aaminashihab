@@ -8,7 +8,7 @@ Building AI-powered applications that solve real-world problems using LLMs, mult
 
 🌐 **Portfolio:** https://amina-portfolio-pi.vercel.app  
 💼 **LinkedIn:** https://www.linkedin.com/in/amina-shihabuddin/  
-🐙 **GitHub:** https://github.com/aaminashihab
+
 
 ---
 
@@ -59,21 +59,7 @@ A multi-agent AI assistant that helps users relocate to Dubai by providing real-
 
 Python • FastAPI • Gemini • MongoDB • Docker
 
----
 
-## 📫 Let's Connect
-
-💼 LinkedIn  
-https://www.linkedin.com/in/amina-shihabuddin/
-
-🌐 Portfolio  
-https://amina-portfolio-pi.vercel.app
-
-🐙 GitHub  
-https://github.com/aaminashihab
-
-
----
 
 ⭐ Thanks for visiting my profile!
 
